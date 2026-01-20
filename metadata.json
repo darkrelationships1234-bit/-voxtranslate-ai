@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VoxTranslate AI",
+  "description": "A high-performance video and audio translator and transcriber powered by Gemini. Upload videos or record live audio to get instant transcriptions and translations in a professional side-by-side view.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
